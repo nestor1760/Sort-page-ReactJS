@@ -1,0 +1,21 @@
+.mySelect {
+    width: 150px;
+    text-align: center;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    background: #18aadf;
+    box-shadow: 8px 6px 23px 1px rgba(0,0,0,0.37);  
+    border: 2px solid black;  
+    border-radius: 5px;
+    color: #000000;
+}
+
+.mySelect:hover {
+    background: #1a79de;
+}
+
+.option {
+    background: #20b4e9;
+}
+
